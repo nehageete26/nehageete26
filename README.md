@@ -51,15 +51,15 @@ Aspiring **Software Development Engineer (SDE)**
 
 ## 📈 GitHub Stats
 
-<!-- Add these after replacing YOUR_USERNAME -->
+## 📊 GitHub Stats
 
-```md
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=nehageete26&show_icons=true&theme=tokyonight)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nehageete26&layout=compact&theme=tokyonight)
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=nehageete26&theme=tokyonight)
-```
+
+---
 
 ---
 
